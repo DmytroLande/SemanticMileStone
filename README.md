@@ -9,7 +9,6 @@
 ## Framework and research article
 
 - **[SMF-MAP framework — English, v1.1](Framework/SMF_MAP_v1_1.md)** — multi-agent specification, workflow, roles, and prompts.
-- **[SMF framework — Ukrainian, v1.2](Framework/SMF_Framework_v1_2_UA.md)** — subsequent working specification in Ukrainian.
 - **[Research article — *Semantic Milestones and the SMF-MAP Multi-Agent Framework* (DOCX)](Article/SMF_MAP_Art_ENG.docx)** — conceptual model, nine-class operational taxonomy, illustrative scenarios, and methodological audit.
 
 ## What is a semantic milestone?
