@@ -1,0 +1,91 @@
+﻿id,author_label,reviewer_type,review_status,risk_level,reason,gold_status
+R039,TRADE_OFF,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW_PRIORITY,MEDIUM,«Сувора» перевірка потребує операційного визначення.,NOT_ESTABLISHED
+R14,TENSION,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R050,TENSION,MODEL_PRELIMINARY_NOT_INDEPENDENT,REVISE_BEFORE_GOLD,HIGH,Швидкість проти збереження доказів — TRADE_OFF не менш обґрунтований за TENSION.,NOT_ESTABLISHED
+R21,COMPLEMENT,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R12,TRADE_OFF,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R057,COMPLEMENT,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R027,CONTRADICTION,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R075,EQUIVALENCE,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,LOW,Контрапозиція в класичній логіці; уточнити припущення.,NOT_ESTABLISHED
+R069,ENTAILMENT,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R20,COUNTEREXAMPLE,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW_PRIORITY,MEDIUM,Оцінка «покращує» вимагає визначеного критерію стану системи.,NOT_ESTABLISHED
+R047,COUNTEREXAMPLE,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW_PRIORITY,MEDIUM,Можливість спільної хибної цитати потребує явно вказаної згоди щодо цитати.,NOT_ESTABLISHED
+R18,COUNTEREXAMPLE,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW_PRIORITY,MEDIUM,"Модальне «можуть» — можливість контрприкладу, а не спостережуваний приклад.",NOT_ESTABLISHED
+R054,TENSION,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW_PRIORITY,MEDIUM,Стабільність і адаптивність — різні критерії; потенційно COMPLEMENT або TRADE_OFF.,NOT_ESTABLISHED
+R040,TRADE_OFF,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R062,COMPLEMENT,MODEL_PRELIMINARY_NOT_INDEPENDENT,REVISE_BEFORE_GOLD,HIGH,«Точність» може означати accuracy або precision; в українському тексті описано precision. Уточнити термін.,NOT_ESTABLISHED
+R048,COUNTEREXAMPLE,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW_PRIORITY,MEDIUM,Загальне «можна негайно» і конкретне «не відновлюється» потребують однакових умов відновлення.,NOT_ESTABLISHED
+R025,CONTRADICTION,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R081,EQUIVALENCE,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,LOW,"Уточнити, чи порожня множина запитів допустима.",NOT_ESTABLISHED
+R076,EQUIVALENCE,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R042,TRADE_OFF,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R072,EQUIVALENCE,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW_PRIORITY,MEDIUM,Класична логіка двозначна; «не відповів правильно» не обов’язково «відповів неправильно» (міг не відповісти).,NOT_ESTABLISHED
+R061,COMPLEMENT,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R064,ENTAILMENT,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,LOW,Екзистенційна передумова явно задана «архів містить документи».,NOT_ESTABLISHED
+R089,UNRELATED,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R090,UNRELATED,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R044,COUNTEREXAMPLE,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R049,TENSION,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R058,COMPLEMENT,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R16,TENSION,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R23,UNRELATED,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R077,EQUIVALENCE,MODEL_PRELIMINARY_NOT_INDEPENDENT,REVISE_BEFORE_GOLD,HIGH,"«Рівно один із двох» не визначає, який саме агент; B може бути прочитано як конкретизована, а не тотожна формула.",NOT_ESTABLISHED
+R02,CONTRADICTION,MODEL_PRELIMINARY_NOT_INDEPENDENT,REVISE_BEFORE_GOLD,HIGH,Семантика «зменшує» і «не зменшує» має бути прив’язана до одного показника та інтервалу; інакше неоднозначно.,NOT_ESTABLISHED
+R067,ENTAILMENT,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R068,ENTAILMENT,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R079,EQUIVALENCE,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R032,CONTEXT_DEPENDENT,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R073,EQUIVALENCE,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R071,ENTAILMENT,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R034,CONTEXT_DEPENDENT,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R030,CONTEXT_DEPENDENT,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R055,COMPLEMENT,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R04,CONTRADICTION,MODEL_PRELIMINARY_NOT_INDEPENDENT,REVISE_BEFORE_GOLD,HIGH,Незалежна перевірка джерел не виключає додаткового використання спільного неперевіреного джерела; формальна суперечність не гарантована.,NOT_ESTABLISHED
+R056,COMPLEMENT,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R087,UNRELATED,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R19,COUNTEREXAMPLE,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW_PRIORITY,MEDIUM,"«Сніг білий» — оцінка тривіальності суб’єктивна, не формальний контрприклад.",NOT_ESTABLISHED
+R082,UNRELATED,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R046,COUNTEREXAMPLE,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,LOW,Контрприклад показує залежність від дейктичного контексту.,NOT_ESTABLISHED
+R060,COMPLEMENT,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R22,COMPLEMENT,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R052,TENSION,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW_PRIORITY,MEDIUM,«Максимальна» і «надмірна» деталізація не тотожні без шкали.,NOT_ESTABLISHED
+R037,TRADE_OFF,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R03,CONTRADICTION,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R038,TRADE_OFF,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW_PRIORITY,MEDIUM,Майже дубль R12 — ризик повторення конструкції.,NOT_ESTABLISHED
+R041,TRADE_OFF,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R06,CONTRADICTION,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R051,TENSION,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R11,TRADE_OFF,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW_PRIORITY,MEDIUM,Майже дубль R040 — ризик витоку між навчальними і тестовими прикладами.,NOT_ESTABLISHED
+R045,COUNTEREXAMPLE,MODEL_PRELIMINARY_NOT_INDEPENDENT,REVISE_BEFORE_GOLD,HIGH,"У вислові «Сила без контролю — ризик» дієслово відсутнє, але предикативність є; потрібно визначити критерій.",NOT_ESTABLISHED
+R078,EQUIVALENCE,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R036,CONTEXT_DEPENDENT,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R05,CONTRADICTION,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R053,TENSION,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R01,CONTEXT_DEPENDENT,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R063,ENTAILMENT,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R13,TENSION,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW_PRIORITY,MEDIUM,Локальний і глобальний показники можуть одночасно бути істинними; TENSION не означає суперечність.,NOT_ESTABLISHED
+R088,UNRELATED,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R086,UNRELATED,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R028,CONTEXT_DEPENDENT,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R083,UNRELATED,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,LOW,Очевидно різні теми; UNRELATED — лише в заданому контексті.,NOT_ESTABLISHED
+R10,TRADE_OFF,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW_PRIORITY,MEDIUM,Емпірична вартість перевірки у часі не універсальна; контекст залежить від паралельності.,NOT_ESTABLISHED
+R084,UNRELATED,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R17,COUNTEREXAMPLE,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW_PRIORITY,MEDIUM,"«Може виникнути» є можливим контрприкладом, але не засвідченим фактом.",NOT_ESTABLISHED
+R031,CONTEXT_DEPENDENT,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R07,CONTRADICTION,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R066,ENTAILMENT,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R085,UNRELATED,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R24,ENTAILMENT,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,LOW,«Деякі» формально означає хоча б один; п’ять об’єктів задовольняють.,NOT_ESTABLISHED
+R074,EQUIVALENCE,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,LOW,Еквівалентність універсального твердження і відсутності контрприкладу.,NOT_ESTABLISHED
+R033,CONTEXT_DEPENDENT,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R035,CONTEXT_DEPENDENT,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R080,EQUIVALENCE,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R08,CONTRADICTION,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R029,CONTEXT_DEPENDENT,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R15,TENSION,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R070,ENTAILMENT,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,LOW,"Правильність залежить від того, що «контролі пройдено» — твердження про всі три.",NOT_ESTABLISHED
+R065,ENTAILMENT,MODEL_PRELIMINARY_NOT_INDEPENDENT,REVISE_BEFORE_GOLD,HIGH,"A і B є логічно еквівалентними перефразуваннями; мітка ENTAILMENT правильна лише в односторонньому сенсі, але неоднозначна щодо EQUIVALENCE.",NOT_ESTABLISHED
+R059,COMPLEMENT,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R09,TRADE_OFF,MODEL_PRELIMINARY_NOT_INDEPENDENT,REVISE_BEFORE_GOLD,HIGH,Два різні контексти (аварія/розслідування): CONTEXT_DEPENDENT або TENSION можуть бути доречнішими за TRADE_OFF.,NOT_ESTABLISHED
+R043,COUNTEREXAMPLE,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
+R026,CONTRADICTION,MODEL_PRELIMINARY_NOT_INDEPENDENT,EXPERT_REVIEW,NONE,Первинна аналітична перевірка не виявила очевидної неоднозначності; потрібна незалежна оцінка.,NOT_ESTABLISHED
